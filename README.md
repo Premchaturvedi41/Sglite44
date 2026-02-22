@@ -1,4 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGLITE - LED Lights & Floodlights Manufacturer</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f0f8ff; color: #333; }
+        h1 { color: #007bff; }
+        .logo { width: 200px; margin: 20px; }
+    </style>
+</head>
+<body>
     <h1>🌟 Welcome to SGLITE! 🌟</h1>
     <p>High-Quality LED Lights, Floodlights, Street Lights & More</p>
     <p>Energy-Efficient Lighting Solutions – Made in Delhi, India</p>
