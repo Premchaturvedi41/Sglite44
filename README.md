@@ -17,7 +17,7 @@
     <!-- Agar logo hai to upload kar ke yeh line add kar: -->
     <!-- <img src="logo.png" alt="SGLITE Logo" class="logo"> -->
     <p><strong>Manufacturing Video:</strong> Coming Soon!</p>
-    <p><a href="https://youtube.com/your-video-https://youtube.com/shorts/7ZgJSL-G6do?feature=share">Watch Process Video</a></p>
+    <p><a href="https://youtube.com/your-video-https://youtube.com/shorts/7ZgJSL-G6do?feature=">Watch Process Video</a></p>
     <p>Contact: <a href="mailto:info@sglite.com">sglite44@gmail.com</a> | WhatsApp: [9599202354]</p>
 </body>
 </html>
