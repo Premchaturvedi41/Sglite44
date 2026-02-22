@@ -18,6 +18,6 @@
     <!-- <img src="logo.png" alt="SGLITE Logo" class="logo"> -->
     <p><strong>Manufacturing Video:</strong> Coming Soon!</p>
     <p><a href="https://youtube.com/your-video-link" target="_blank">Watch Process Video</a></p>
-    <p>Contact: <a href="mailto:info@sglite.com">info@sglite.com</a> | WhatsApp: [number]</p>
+    <p>Contact: <a href="mailto:info@sglite.com">info@sglite.com</a> | WhatsApp: [9599202354]</p>
 </body>
 </html>
